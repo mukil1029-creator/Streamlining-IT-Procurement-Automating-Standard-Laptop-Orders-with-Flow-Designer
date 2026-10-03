@@ -1,0 +1,533 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 4
+/Kids [ 4 0 R 13 0 R 16 0 R 18 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F2 9 0 R
+/F2-0 10 0 R
+/F2-1 11 0 R
+/F3 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3955
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 78 741.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL 122.6358 0 Td (TECHNOLOGY STACK) Tj T* -122.6358 0 Td ET
+Q
+Q
+q
+1 0 0 1 78 711.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Script-Controlled ACL District Record Access in ServiceNow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 693.8898 cm
+Q
+q
+1 0 0 1 78 627.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL (This project implements district-based record security in ServiceNow using Script-Controlled) Tj T* (Access Control Lists \(ACLs\). The solution ensures that users can access only records belonging to) Tj T* (their authorized district. The technology stack combines ServiceNow platform capabilities,) Tj T* (role-based security, ACL scripting, and district-level validation mechanisms to provide a secure,) Tj T* (scalable, and maintainable access-control solution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 78 617.8898 cm
+Q
+q
+1 0 0 1 67.6378 509.8898 cm
+q
+.678431 .847059 .901961 rg
+n 0 108 460 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 95 Tm (Technology) Tj T* ET
+BT 1 0 0 1 186 95 Tm (Purpose) Tj T* ET
+BT 1 0 0 1 6 77 Tm (ServiceNow Platform) Tj T* ET
+BT 1 0 0 1 186 77 Tm (Application Development & Administration) Tj T* ET
+BT 1 0 0 1 6 59 Tm (ACL \(Access Control List\)) Tj T* ET
+BT 1 0 0 1 186 59 Tm (Record and Field Security) Tj T* ET
+BT 1 0 0 1 6 41 Tm (JavaScript) Tj T* ET
+BT 1 0 0 1 186 41 Tm (ACL Scripting and Validation) Tj T* ET
+BT 1 0 0 1 6 23 Tm (User Roles) Tj T* ET
+BT 1 0 0 1 186 23 Tm (Permission Management) Tj T* ET
+BT 1 0 0 1 6 5 Tm (District Mapping) Tj T* ET
+BT 1 0 0 1 186 5 Tm (District-Based Access Control) Tj T* ET
+q
+1 J
+1 j
+0 0 0 RG
+1 w
+n 0 108 m 460 108 l S
+n 0 0 m 460 0 l S
+n 0 0 m 0 108 l S
+n 460 0 m 460 108 l S
+n 0 90 m 460 90 l S
+n 0 72 m 460 72 l S
+n 0 54 m 460 54 l S
+n 0 36 m 460 36 l S
+n 0 18 m 460 18 l S
+n 180 0 m 180 108 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 15 771.8898 cm
+q
+0.827451 0.827451 0.827451 rg
+n
+0 36 520 -18 re
+f*
+0 0 0 rg
+BT
+/F2-0 8 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 25 Tm
+(Date) Tj
+T*
+ET
+BT
+1 0 0 1 76 25 Tm
+(Team ID) Tj
+T*
+ET
+BT
+1 0 0 1 166 25 Tm
+(Project Name) Tj
+T*
+ET
+BT
+1 0 0 1 446 25 Tm
+(Maximum Marks) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 7 Tm
+(03 October 2026) Tj
+T*
+ET
+BT
+1 0 0 1 76 7 Tm
+(SWTID\0552026\0557929) Tj
+T*
+ET
+BT
+1 0 0 1 166 7 Tm
+(Script\055Controlled ACL \226 Restrict Record Access Based on Field Value) Tj
+T*
+ET
+BT
+1 0 0 1 446 7 Tm
+(4 Marks) Tj
+T*
+ET
+q
+1 J
+1 j
+0 0 0 RG
+1 w
+n
+0 36 m
+520 36 l
+S
+n
+0 0 m
+520 0 l
+S
+n
+0 0 m
+0 36 l
+S
+n
+520 0 m
+520 36 l
+S
+n
+0 18 m
+520 18 l
+S
+n
+70 0 m
+70 36 l
+S
+n
+160 0 m
+160 36 l
+S
+n
+440 0 m
+440 36 l
+S
+Q
+Q
+Q
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+0 746.8898 595.2756 95 re
+f*
+0.827451 0.827451 0.827451 rg
+n
+15 796.8898 90 20 re
+B*
+0 0 0 rg
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 18 802.8898 Tm
+(Date) Tj
+T*
+ET
+0.827451 0.827451 0.827451 rg
+n
+105 796.8898 120 20 re
+B*
+0 0 0 rg
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 108 802.8898 Tm
+(Team ID) Tj
+T*
+ET
+0.827451 0.827451 0.827451 rg
+n
+225 796.8898 295.2756 20 re
+B*
+0 0 0 rg
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 228 802.8898 Tm
+(Project Name) Tj
+T*
+ET
+0.827451 0.827451 0.827451 rg
+n
+520.2756 796.8898 90 20 re
+B*
+0 0 0 rg
+BT
+/F2-1 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 523.2756 802.8898 Tm
+(Maximum Marks) Tj
+T*
+ET
+1 1 1 rg
+n
+15 776.8898 90 20 re
+B*
+0 0 0 rg
+BT
+/F1-1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 18 782.8898 Tm
+(03 October 2026) Tj
+T*
+ET
+1 1 1 rg
+n
+105 776.8898 120 20 re
+B*
+0 0 0 rg
+BT
+/F1-1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 108 782.8898 Tm
+(SWTID\0552026\0555092) Tj
+T*
+ET
+1 1 1 rg
+n
+225 776.8898 295.2756 20 re
+B*
+0 0 0 rg
+BT
+/F1-1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 228 782.8898 Tm
+(Streamlining IT Procurement\072 Automating Standard Laptop Orders with Fl) Tj
+T*
+ET
+1 1 1 rg
+n
+520.2756 776.8898 90 20 re
+B*
+0 0 0 rg
+BT
+/F1-1 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 523.2756 782.8898 Tm
+(4 Marks) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 15 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 696
+>>
+stream
+Gau1+9lJc?%#46M'tc+K#$6u&G>#P[^ebGQj6e\h@)u$90")]jDUs;%b)Xpr$bGsA)ieFV0DU^&aaqj]]3e\A>ifobiP5WX1Z4rK6@K;$\[V/)k050*,ijECAgo1M_)d@CH_fcXE$VM5PQ7;d:dVZWUZm]A=M\+_KsE+DX77FqO-!_Y,^4@u,moiL-P>6Gh;l9L9(k,*I&$#TqtZ.djW;n4,QQ-$HGl\Lj48]8X?8^BdP0V;Vd[H:%/c(S/ESSU>Noq'RSh<D.qB2&$,Y4]=5A4RNceCL4!G6=];$h?B-m(pZ\A^;HEWON*lS7&'6E(A(nON4kOD^-,N)/>Ibu[gXqrL9+(Ak+k=N='[3()?'.6\aF&4ZejurD4qA,r+X!\96oj$$l!)L*r,cCdUB/-.n5)D?`"#eILLjJ>>b#kdAKce93Q%`44IDGe>U58YSY.B*FA$CXNM)mRd)dVqc*?0+B+M0_@+N4:=;3:LPM!oJ'[(CruZ>A*a]8t#u+XJ$/jj5iDZI,KL]?j86?dKg%kK?f376N.HqN-o]oG_\F[';u^8'cV@d6L>R5h#(h:G,HQp]kBr4DqN"2d3)>oP+BZ<)83;e)b`r5.pH'P8)$8H!Oiq@BF@l\Lk\N7Uo#oSQY!Q7H,jW`VD4UMcL&E\u;0tWL#9BG)2qRXFqo+9M69TNIS1K_>=VVcAB1~>
+endstream
+endobj
+15 0 obj
+<<
+/F1 6 0 R
+/F2 9 0 R
+/F3 12 0 R
+>>
+endobj
+16 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 15 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 720
+>>
+stream
+Gau0A9lHLd&A@ZchU.<4bQ=)EDb9:`WmXMEBmZe)+Nk[A!j')IfPu@g#E3Af6trdW6?r%9bkkd\@.<AfbqC`#M\uCC#3I/%JV@utp]fd2=ZWX4EYr4%1,k(S7$Ktr]]Oso*6Mhu3D(j$PReP[V0p$1eGHE@_^nl)N+A+9Uj.[i*q<BmE(e4m8f/!95[f"->L:JL`RjbF':nmCO.R+ZpB^Gq!\geij0qomO1mk]3c=!h_Z@[HPq'NP?\/_L&ko4d+Wr*5(MA`=6O:A;.uOW$"2D:QpXKP/M-*fq=@3m0l#b7srtN8'-PF4hXal8N"hk9pB9FWCWq*+T:Lub+m2nP"?<MjNb8X-cQ4&%5qPWnu[=0B\eWO-a:+W$tE\@.)1$P=Qr7:a\SWjn<N't4m3Tn8HBC+NQkdULnCp/Y/Np/djeSVS9X+_UVfAWuen2e&hmIoY?%&1KIj<3/OA@?.Emtj/U>i\K01u_"Z(X7?T]D7U4h<c*9N#EMHMlG&Rai,&g?T!fokXf8p<f.T[qV/LcgtfU,e\,F\?83".rtnqHZlA'UPMAUjU>)6>,d6Kj[#):B(:4_@^hmF=Ud8&M"N"%TW@4V,-=H9p0m1.1Mo`8f7EeJk>N-@C.<iI(^<g=89&`g88S.'Wb9ooa8ADu7Wrae#f!<NVUJRq[D44+o4/c->_G[U\`o'VQWm'aa<D[j67df%fm^#\1S6p\tcia~>
+endstream
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 15 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 872
+>>
+stream
+GasIebAQ&g&A7ljp?33N/%It5qNf&KO<Q+$6pWH9CoEWCPTj+jP+d>QQdioJ0!tZc(7-h`ZU:RNn<M#*VuWtUq#!:/F9PeJl,E2pZ9,S<Aq+FW:q>GuqBB3_2W$F*K,9]\@*9GV9d_pW=>A;4dS56qXTHjs7inM$*&8.RD3QJ2fT?hJem98C#2'r+T*!t)^>>!$9tpOl1^u9Aha%l:k\2-\[SkIJF+AUk^+d"L_S%h/bfPFV=%,rZ`f_h"IK9[`Ii$6Ig]@[s\m.M\a9(LheC&W#61A>_4L\9/gXi.E_3&E4oGnX!^9QabE9dOYGC[oI-R_Z`o*>DpLi7$DhFRDf>REdB_6q\I)?k=Yk=23;A=<!A@93snJ!jYMhmo)[/VGL5k10YUfk[@YOPD(qLBk\D!S<VPd/ooMJ9nI^;WJ-X9mp(o2VV0NE/pcUbXl@;Hh:^Ql2Vd<2cfq>Ba/2i#h1!)B+X%\+T3?4$"J%2qgg=_7OP\7jEO0sQ9(rc*+i-nA>ZGC'h8:MYZ_B`Y,EWM/LicJ`n?Iub%Dlpih"fZkZ^eK]"X0%0X:qYaDLeZ\:?/hDW9ZQ/*TD!8HdtZK@63ck(/Ps<gJ*YQoeFbA4)K=LnX3;->/98F)0W+W[AEX'V%B,o$l/4N6[)@;>i4Gr%>bq*FE5/l?sGV@5,KoL78rXq]S)BG/b*LTGRpLns%O5YS_<lf@-?eTV"._8)2G`['N[\LD<Nsd>#K:#gcLkR.D*$B4#oe0Bmcl[hW[pl/[d+*OV.aMQSUXTY(l$:J<m<#1\L8f9]g+kJXVE@B@P9%$AVB3/i7pHe?s^O:Q%D'7>J&(`rp]pfVQ*2/tXH+GI8bF(.el__1]BP6J:BV\m4U~>
+endstream
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000134 00000 n 
+0000000183 00000 n 
+0000000475 00000 n 
+0000004482 00000 n 
+0000004589 00000 n 
+0000004696 00000 n 
+0000004803 00000 n 
+0000004915 00000 n 
+0000005028 00000 n 
+0000005141 00000 n 
+0000005251 00000 n 
+0000005453 00000 n 
+0000006241 00000 n 
+0000006294 00000 n 
+0000006496 00000 n 
+0000007308 00000 n 
+0000007510 00000 n 
+trailer
+<<
+/Size 20
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+8474
+%%EOF
